@@ -1,0 +1,2 @@
+# premium-flux-core-weld-001-flux-core-welding-wire-feed
+Stop chasing welding parameters on sticky notes — your flux core workflow deserves a dedicated studio.  This Notion template transforms your chaotic welding bench into a streamlined craft studio. It centralizes wire feed settings, flux core parameters, project blueprints, and maintenance logs so you can focus on the weld, not the admin. No more gue
